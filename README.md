@@ -1,4 +1,4 @@
-##Pipeline:
+## Pipeline:
 - Feature Extraction
 - Data preparation
 - Defining the model
